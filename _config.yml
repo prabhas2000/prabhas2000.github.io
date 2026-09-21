@@ -36,5 +36,3 @@ jektex:
   macros:
     - ["\\Q", "\\mathbb{Q}"]
     - ["\\C", "\\mathbb{C}"]
-
- remote_theme: riggraz/no-style-please
