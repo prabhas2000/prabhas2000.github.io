@@ -2,10 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: About Me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
+      - title: I am an IC design engineer(Analog/Mixed Signal Design -- also want to explore Digital side). I have Masters degree in EECE from IIT Dharwad; Bachelors from KLE Tech. Scripting-automation-LLMs are my technical hobbies apart from personal ones like Music production-Metaphysics(this covers a large spectrum of ideas). I rejoice local hiking, sports-volleyball,cricket.
+      - title: email
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
