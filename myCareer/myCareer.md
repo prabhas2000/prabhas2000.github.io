@@ -30,8 +30,10 @@ Courses:
 
 ## Education
 
-**MS in EECE, Indian Institute of Technology -- Dharwad**
+**MS(r) in EECE, Indian Institute of Technology -- Dharwad**
 *Aug 2024 -- May 2027*
+
+- I have worked with [Prof. Samatha Benedict](https://sites.google.com/iitdh.ac.in/dr-samatha-benedict/bio) (on sensors) and [Prof. Naveen Kadayinti](https://www.iitdh.ac.in/~naveen/) (on circuits) on the problem statement - *Interfacing circuits for Dry electrodes.* These are quite popular in the context of *Wearable Electronics* where comfort is the priority along with reasonable accuracy of bio-potential signal acquisition. For example, a wearable device should be able to resolve the QRS complex of an ECG signal that can flag potential arrhythmias, even though it is not expected to match the medical-grade clarity of a standard 12-lead ECG.
 
 - Thesis: *A High Input Impedance Chopper Stabilized Amplifier for Interfacing Dry Electrodes* 
 
