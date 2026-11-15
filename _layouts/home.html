@@ -8,6 +8,17 @@ layout: default
   {%-endif-%}
 </header>
 
-{%-include menu_item.html collection=site.data.menu.entries-%}
+{%-include nav.html-%}
 
-{{ content }}
+{%- if page.photo -%}
+<div class="profile">
+  <img class="profile-photo" src="{{ page.photo | relative_url }}" alt="{{ site.author }}" />
+  <div class="profile-text">
+    {{ content }}
+  </div>
+</div>
+{%- else -%}
+  {{ content }}
+{%- endif -%}
+
+{%-include contact.html-%}
