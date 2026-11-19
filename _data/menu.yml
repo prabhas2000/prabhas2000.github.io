@@ -1,12 +1,15 @@
-
 # Top navigation bar (rendered by _includes/nav.html)
+# "match" = a piece of the page's URL; the item is underlined when the
+# current page's URL contains it (case-insensitive). The home entry has none.
 nav:
   - title: about me
     url: /
   - title: career
     url: /myCareer/myCareer.html
+    match: /mycareer
   - title: blogs
     url: /blogs/blogs.html
+    match: /blogs
   - title: music
     url: /music/music.html
- 
+    match: /music

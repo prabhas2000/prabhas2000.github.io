@@ -7,6 +7,11 @@ I'm an IC design engineer with a focus on Analog/Mixed-Signal design.
 
 ## Experience
 
+**Analog Design Engineer, Axiro Semiconductor**
+*Nov 2026 -- Present*
+
+- Part of a team that caters ICs for Gate drives and DC-DC converters.
+
 **Teaching Assistant, IIT Dharwad**
 *Jan 2025 -- Dec 2026*
 
